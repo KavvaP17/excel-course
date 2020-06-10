@@ -1,0 +1,26 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack",
+    "build": "webpack --mode prodaction",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KavvaP17/excel-course.git"
+  },
+  "author": "Aliaksandr Kamianchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KavvaP17/excel-course/issues"
+  },
+  "homepage": "https://github.com/KavvaP17/excel-course#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
